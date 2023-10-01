@@ -3,12 +3,10 @@
 
 body {
     background-color: #1f2020;
-    padding: left right 50px
 }
 
 body, h1, h2, ul, li {
     margin: 0;
-    padding: left right 50px;
 }
 
 /* Style the top bar */
@@ -25,7 +23,9 @@ body, h1, h2, ul, li {
     font-size: 24px;
     font-family: 'Gabarito', sans-serif;
 }
-
+footer header {
+    margin: left right 50px
+}
 nav a {
     text-decoration: none;
     color: #fff;
